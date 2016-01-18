@@ -1,3 +1,32 @@
+**This repository will be deleted soon! The Steamless.NET project is now maintained under the name 'Steamless' here:<br/> https://github.com/atom0s/Steamless**
+
+**Please use the other repo for all future issues/pull requests etc.**
+
+**For more information about this, see:** http://atom0s.com/forums/viewtopic.php?f=2&t=97
+
+
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Steamless
 Steamless is a DRM remover of the SteamStub variants. This version of Steamless is written in .NET (C#).
 
