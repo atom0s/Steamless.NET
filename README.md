@@ -1,4 +1,4 @@
-**This repository will be deleted soon! The Steamless.NET project is now maintained under the name 'Steamless' here:<br/> https://gitlab.com/atom0s/Steamless**
+**This repository will be deleted soon! The Steamless.NET project is now maintained under the name 'Steamless' here:<br/> https://github.com/atom0s/Steamless**
 
 **Please use the other repo for all future issues/pull requests etc.**
 
